@@ -1,3 +1,5 @@
+The Flutter video app offers seamless video streaming with a user-friendly interface. Features include a video listing page with details like title and views, a dedicated playback page showing video and channel info (name, image, subscribers), and a comments section displaying only the latest comment. Developed with Flutter for a responsive, cross-platform experience.Features are:
+
 1. Video Listing Page:
 Thumbnails of videos retrieved from an API.
 Information such as title, views, and upload time is displayed for each video.

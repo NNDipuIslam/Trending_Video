@@ -16,6 +16,13 @@ This information can be fetched from the same API or a different API endpoint th
 Users can leave comments on the video page.
 Only the latest comment is displayed to the users.
 
+#OUTPUT#
+
 
 ScreenShots:
-![ScreenShot1]("C:\Users\User\Downloads\pic\first.jpg")
+
+![first](https://github.com/NNDipuIslam/Trending_Video/assets/70852888/4db06960-c6c7-4865-a58b-8f98216d68d3)
+![second](https://github.com/NNDipuIslam/Trending_Video/assets/70852888/9880516b-4092-4d41-9bbb-49a31299ab28)
+![third](https://github.com/NNDipuIslam/Trending_Video/assets/70852888/c7a0a801-b643-42df-bcff-ca121c858592)
+![fourth](https://github.com/NNDipuIslam/Trending_Video/assets/70852888/c7b0f3b8-cae7-4252-838f-b4e4dda57a96)
+
